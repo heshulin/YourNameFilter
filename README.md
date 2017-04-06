@@ -2,6 +2,7 @@
 你的名字版滤镜
 
 调用方法如下
+
 public class Main {
 
     public static  void main(String []agr0)
@@ -22,8 +23,7 @@ public class Main {
         
         System.out.println(yournameFilter.getPhotoUrl());
         
-    }
-    
+    }   
 }
 
 yournameFilter.pullPhoto("E:/e.jpg")参数为一个图片的真实路径
